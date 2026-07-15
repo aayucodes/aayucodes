@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SATYAM !!</h1>
 
-<h3 align="center">💻 Code. Create. Commit. Repeat.</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Aspiring+Frontend+Developer;B.Tech+CSE+Student;Learning+HTML+CSS+JavaScript+%26+Angular;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
