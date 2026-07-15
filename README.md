@@ -1,66 +1,35 @@
-<h1 align="center">
-  <img src="https://herokuapp.com!+👋;B.Tech+CSE+Student;Front-End+Developer;Designing+Modern+Websites" alt="Typing SVG" />
-</h1>
+# Hi, I'm Satyam! 👋 
 
-<p align="center">
+<p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />
 </p>
 
----
-
- 💫 About Me
-<p align="left">
-  ✨ Passionate software engineering enthusiast focused on creating highly responsive user interfaces. <br />
-  🎨 Specialized in modern <b>UI/UX Web Design Layouts</b> and responsive frameworks. <br />
-  🚀 Currently diving deep into enterprise architectures with <b>AngularJS Applications</b>.
-</p>
-
-- ⚡ **Learning Journey:** Shifting from basic web development to advanced scripting architectures.
-- 🛠️ **Design Philosophy:** Code must clean, modular, and optimized for speed.
+I am a passionate **Computer Science student** specializing in modern Web Design, UI/UX Layouts, and Dynamic Front-End Applications. Currently expanding my skill set with **AngularJS**.
 
 ---
 
-### 💻 My Core Stack
+### 🎨 Tech Stack & Skills
 
-<p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" style="padding-right: 10px;" />
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" style="padding-right: 10px;" />
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" style="padding-right: 10px;" />
-  </a>
-  <a href="https://angularjs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="AngularJS" width="45" height="45" style="padding-right: 10px;" />
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="Git" width="45" height="45" style="padding-right: 10px;" />
-  </a>
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript (ES6+)` `AngularJS` |
+| **Design** | `UI/UX Web Design` `Responsive Layouts` |
+| **Tools** | `Git` `GitHub` `VS Code` |
 
 ---
 
-### 📊 Performance Analytics
-<p align="center">
-  <img src="https://vercel.app" alt="Satyam's Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
+* 📅 **Hostel Mess Reminder** — A JavaScript web application designed to send automated meal reminders to hostel students.
+* 🧮 **Scientific Calculator** — A fully responsive calculator built with HTML, CSS, and interactive JavaScript logic.
+* 📝 **AngularJS Todo List** — A dynamic task management web app exploring structural frameworks.
 
 ---
 
-### 🤝 Professional Network
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aayu.x8@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
+### 🤝 Let's Connect!
+
+✨ Feel free to reach out for collaborations or just a friendly tech chat:
+
+* 💼 **LinkedIn:** [Your Profile Link Here](YOUR_LINKEDIN_URL)
+* 📧 **Email:** aayu.x8@gmail.com
