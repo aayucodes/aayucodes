@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SATYAM !!</h1>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Aspiring+Frontend+Developer;B.Tech+CSE+Student;Learning+HTML+CSS+JavaScript+%26+Angular;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Frontend+Developer;B.Tech+CSE+Student;Learning+HTML+CSS+JavaScript+%26+Angular;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -40,9 +38,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aayucodes&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aayucodes&theme=tokyonight"/>
 
 </p>
 
@@ -52,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam07&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -62,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=satyam07&theme=algolia&row=1&column=6"/>
 
 </p>
 
@@ -72,15 +70,15 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/satyam07">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/aayucodes">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aayu.x8@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -91,7 +89,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=satyam07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
