@@ -1,30 +1,34 @@
-<h1 align="center">Hi 👋, I'm SATYAM !!</h1>
+<h1 align="center">Hi SATYAM HERE !</h1>
+
+<h3 align="center">
+Frontend Developer • B.Tech CSE Student • India 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Frontend+Developer;B.Tech+CSE+Student;Learning+HTML+CSS+JavaScript+%26+Angular;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Frontend+Developer;B.Tech+CSE+Student;Learning+HTML+CSS+JavaScript+%26+Angular;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student @ Parul University
-- 💻 Passionate about Frontend Development
+- 🎓 B.Tech CSE Student @ **Parul University**
+- 💻 Passionate about **Frontend Development**
 - 🌱 Currently learning **HTML, CSS, JavaScript & Angular**
-- 🚀 Building real-world web projects
+- 🚀 Building Real World Projects
 - 🎯 Goal: Become a Full Stack Developer
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - 🌐 HTML5
 - 🎨 CSS3
@@ -34,68 +38,86 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aayucodes&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aayucodes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aayucodes&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=aayucodes&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam07&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayucodes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=satyam07&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aayucodes&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/satyam07">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/aayucodes">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/aayucodes">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:aayu.x8@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=satyam07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=aayucodes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
 </p>
 
 ---
 
 <p align="center">
 
-⭐ **Thanks for visiting my profile!** ⭐
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
+
+<p align="center">
+
+Made with ❤️ by <b>SATYAM</b>
 
 </p>
