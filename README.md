@@ -246,7 +246,6 @@ GitHub      █████████░ 90%
 
 <div align="center">
 
-## ⚡ Never Stop Learning 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:0066FF"/>
 
@@ -274,17 +273,7 @@ GitHub      █████████░ 90%
 
 </div>
 
----
 
-# 🏆 GitHub Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aayucodes&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 📅 Contribution Calendar
 
@@ -432,31 +421,10 @@ GitHub      █████████░ 90%
 
 </div>
 
-<!-- ========================================= -->
-<!--        PREMIUM README - PART 6            -->
-<!--     SNAKE • FOOTER • FINAL TOUCH          -->
-<!-- ========================================= -->
 
-# 🐍 Contribution Snake
 
-<div align="center">
 
-<picture>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/aayucodes/aayucodes/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/aayucodes/aayucodes/output/github-contribution-grid-snake.svg">
-
-<img alt="github contribution snake"
-src="https://raw.githubusercontent.com/aayucodes/aayucodes/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
-
----
 
 # 🚀 Thanks For Visiting
 
