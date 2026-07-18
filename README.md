@@ -5,7 +5,7 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Frontend+Developer;B.Tech+CSE+Student;Learning+HTML+CSS+JavaScript+%26+Angular;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+<img src="https://demolab.com+🚀" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev"/>
 </p>
 
 ---
@@ -38,34 +38,25 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aayucodes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=aayucodes&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayucodes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<img src="https://vercel.app" alt="GitHub Trophies" />
+</a>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayucodes&theme=algolia&no-frame=true&margin-w=10"/>
+---
 
+# 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
+<img height="170" src="https://vercel.app" alt="GitHub Stats" />
+<img height="170" src="https://vercel.app" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img height="170" src="https://demolab.com" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,16 +65,24 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 
 <p align="center">
 
-<a href="https://github.com/aayucodes">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com" target="_blank">
+<img src="https://skillicons.dev" alt="GitHub" />
 </a>
 
-<a href="https://linkedin.com/in/aayucodes">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com" target="_blank">
+<img src="https://skillicons.dev" alt="LinkedIn" />
+</a>
+
+<a href="https://leetcode.com" target="_blank">
+<img src="https://shields.io" alt="LeetCode" />
+</a>
+
+<a href="https://instagram.com" target="_blank">
+<img src="https://skillicons.dev" alt="Instagram" />
 </a>
 
 <a href="mailto:aayu.x8@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev" alt="Gmail" />
 </a>
 
 </p>
@@ -93,9 +92,7 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aayucodes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com" alt="Profile Views" />
 </p>
 
 ---
@@ -103,22 +100,15 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 # 💭 Quote
 
 <p align="center">
-
 > **"Code. Learn. Build. Repeat." 🚀**
-
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ If you like my work, consider giving a star to my repositories!
-
 </p>
 
 <p align="center">
-
 Made with ❤️ by <b>SATYAM</b>
-
 </p>
-
