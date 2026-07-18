@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-Hi 👋,  <span style="color:#00E5FF;">aayu here !</span>
+Hlw <span style="color:#00E5FF;">aayu here !</span>
 </h1>
 
 <h3 align="center">
@@ -26,8 +26,6 @@ Hi 👋,  <span style="color:#00E5FF;">aayu here !</span>
 <img src="https://img.shields.io/github/followers/aayucodes?style=for-the-badge&logo=github&color=00E5FF"/>
 
 <img src="https://img.shields.io/github/stars/aayucodes?style=for-the-badge&logo=github&color=blue"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Focus-Web%20Development-blueviolet?style=for-the-badge"/>
 
