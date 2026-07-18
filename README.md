@@ -35,7 +35,7 @@ Hi 👋, I'm <span style="color:#00E5FF;">Satyam</span>
 
 <img src="https://img.shields.io/github/stars/aayucodes?style=for-the-badge&logo=github&color=blue"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/> -->
 
 <img src="https://img.shields.io/badge/Focus-Web%20Development-blueviolet?style=for-the-badge"/>
 
@@ -58,9 +58,6 @@ Goal      : Become a Full Stack Developer
 ---
 
 
-
----
-
 <div align="center">
 
 ### ⚡ "Code • Learn • Build • Repeat"
@@ -69,11 +66,20 @@ Goal      : Become a Full Stack Developer
 
 ---
 
+
+
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="550"/>
 
 </div>
+
+
+
+
+
+
 
 ---
 
@@ -85,10 +91,7 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
-<!-- ========================================= -->
-<!--          PREMIUM README - PART 2          -->
-<!--      SOCIALS • ABOUT • CONNECT           -->
-<!-- ========================================= -->
+
 
 # 🌐 Connect With Me
 
@@ -125,11 +128,10 @@ Goal      : Become a Full Stack Developer
 
 
 
----
 
 
 
----
+
 
 
 
@@ -153,16 +155,13 @@ Goal      : Become a Full Stack Developer
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:6A5ACD"/>
 
 </div>
 
-<!-- ========================================= -->
-<!--       PREMIUM README - PART 3             -->
-<!--   TECH STACK • TOOLS • SKILLS • SETUP     -->
-<!-- ========================================= -->
+
 
 # 🛠️ Tech Stack
 
@@ -229,17 +228,7 @@ Goal      : Become a Full Stack Developer
 
 ---
 
-# 🚀 Currently Learning
 
-```text
-🅰️ AngularJS
-⚡ Advanced JavaScript
-🧠 Data Structures & Algorithms
-🌍 Responsive Web Design
-📦 Git & GitHub Best Practices
-```
-
----
 
 # 🎯 Skills Progress
 
@@ -257,45 +246,6 @@ Git         ████████░░ 80%
 GitHub      █████████░ 90%
 ```
 
----
-
-# 📚 What I Love
-
-💙 Creating Responsive Websites
-
-🚀 Learning Modern Web Technologies
-
-💻 Solving Programming Problems
-
-📖 Exploring New Concepts
-
-🌍 Contributing to Open Source
-
-☕ Coffee + Music + Coding
-
----
-
-# 💎 Developer Mindset
-
-```javascript
-while(alive){
-
-    Learn();
-
-    Code();
-
-    Build();
-
-    Debug();
-
-    PushToGitHub();
-
-    Repeat();
-
-}
-```
-
----
 
 <div align="center">
 
