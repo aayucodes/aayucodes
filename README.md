@@ -121,16 +121,4 @@ Frontend Developer • B.Tech CSE Student • India 🇮🇳
 Made with ❤️ by <b>SATYAM</b>
 
 </p>
-### 🛠️ Technical Skills
 
-![C](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
-### 🌐 Connect with me
-
-![GitHub](https://shields.io)
-![LinkedIn](https://shields.io)
-![Instagram](https://shields.io)
-![LeetCode](https://shields.io)
