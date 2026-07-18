@@ -113,81 +113,7 @@ Goal      : Become a Full Stack Developer
 
 <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-```javascript
-const satyam = {
-    username: "aayucodes",
-    name: "Satyam",
-    location: "India 🇮🇳",
 
-    role: "Frontend Developer",
-
-    currentlyLearning: [
-        "AngularJS",
-        "JavaScript"
-    ],
-
-    languages: [
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    hobbies: [
-        "Coding",
-        "Learning",
-        "Building Projects",
-        "Open Source"
-    ],
-
-    goal: "Become a Full Stack Developer"
-}
-```
-
----
-
-# ⚡ Developer Profile
-
-🎯 Frontend Developer
-
-💻 Passionate about Web Development
-
-🌱 Learning AngularJS
-
-⚡ Love Clean UI & Responsive Design
-
-🚀 Building Projects Daily
-
-📚 Practicing DSA on LeetCode
-
-🔥 Exploring Open Source
-
-☕ Coffee + Music + Coding ❤️
-
----
-
-# 🎯 2026 Goals
-
-✅ Master JavaScript
-
-✅ Master AngularJS
-
-✅ Upload Amazing GitHub Projects
-
-✅ 500+ LeetCode Problems
-
-✅ Learn React
-
-✅ Learn Backend Development
-
-✅ Become Full Stack Developer
-
----
 
 # 💬 Developer Quote
 
@@ -201,37 +127,8 @@ const satyam = {
 
 ---
 
-# ⚡ Fun Facts
 
-✨ I love coding late at night 🌙
 
-🎧 Music makes debugging easier
-
-💻 I enjoy creating beautiful UIs
-
-🚀 Every project teaches something new
-
-🌍 Always curious to learn new technologies
-
----
-
-# ☕ Daily Routine
-
-```text
-🌅 Wake Up
-      ↓
-📚 Learn Something New
-      ↓
-💻 Code
-      ↓
-🐞 Fix Bugs
-      ↓
-🚀 Push to GitHub
-      ↓
-🔁 Repeat
-```
-
----
 
 <div align="center">
 
@@ -241,10 +138,7 @@ const satyam = {
 
 </div>
 
-<!-- ========================================= -->
-<!--       PREMIUM README - PART 3             -->
-<!--   TECH STACK • TOOLS • SKILLS • SETUP     -->
-<!-- ========================================= -->
+
 
 # 🛠️ Tech Stack
 
@@ -311,15 +205,6 @@ const satyam = {
 
 ---
 
-# 🚀 Currently Learning
-
-```text
-🅰️ AngularJS
-⚡ Advanced JavaScript
-🧠 Data Structures & Algorithms
-🌍 Responsive Web Design
-📦 Git & GitHub Best Practices
-```
 
 ---
 
@@ -341,43 +226,7 @@ GitHub      █████████░ 90%
 
 ---
 
-# 📚 What I Love
 
-💙 Creating Responsive Websites
-
-🚀 Learning Modern Web Technologies
-
-💻 Solving Programming Problems
-
-📖 Exploring New Concepts
-
-🌍 Contributing to Open Source
-
-☕ Coffee + Music + Coding
-
----
-
-# 💎 Developer Mindset
-
-```javascript
-while(alive){
-
-    Learn();
-
-    Code();
-
-    Build();
-
-    Debug();
-
-    PushToGitHub();
-
-    Repeat();
-
-}
-```
-
----
 
 <div align="center">
 
@@ -387,10 +236,7 @@ while(alive){
 
 </div>
 
-<!-- ========================================= -->
-<!--        PREMIUM README - PART 4            -->
-<!--    GITHUB STATS • TROPHIES • GRAPH        -->
-<!-- ========================================= -->
+
 
 # 📊 GitHub Analytics
 
@@ -476,28 +322,9 @@ while(alive){
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:6A5ACD"/>
 
 </div>
-<!-- ========================================= -->
-<!--        PREMIUM README - PART 5            -->
-<!-- PROJECTS • LEETCODE • PORTFOLIO • CONTACT -->
-<!-- ========================================= -->
 
-# 🌟 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/aayucodes/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/aayucodes/GitHub-Explorer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=GitHub-Explorer&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/aayucodes/AngularJS-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=AngularJS-Projects&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
@@ -553,35 +380,7 @@ while(alive){
 
 ---
 
-# 💻 Currently Working On
 
-```text
-🚀 Building Frontend Projects
-
-🌐 Responsive Websites
-
-🅰️ AngularJS Applications
-
-📚 DSA Practice on LeetCode
-
-🔥 Improving JavaScript Skills
-```
-
----
-
-# 🎯 2026 Goals
-
-✔️ Build 20+ Quality Projects
-
-✔️ Master AngularJS
-
-✔️ Learn React
-
-✔️ Become Full Stack Developer
-
-✔️ Contribute to Open Source
-
-✔️ Grow GitHub Profile
 
 ---
 
@@ -613,10 +412,7 @@ while(alive){
 
 </div>
 
-<!-- ========================================= -->
-<!--        PREMIUM README - PART 6            -->
-<!--     SNAKE • FOOTER • FINAL TOUCH          -->
-<!-- ========================================= -->
+
 
 # 🐍 Contribution Snake
 
