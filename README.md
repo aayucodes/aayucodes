@@ -1,3 +1,7 @@
+<!-- ========================================= -->
+<!--            PREMIUM GITHUB README          -->
+<!--              PART 1 - HERO               -->
+<!-- ========================================= -->
 
 <div align="center">
 
@@ -5,8 +9,10 @@
 
 </div>
 
+---
+
 <h1 align="center">
-Hlw <span style="color:#00E5FF;">aayu here !</span>
+Hlw  <span style="color:#00E5FF;">aayu here !</span>
 </h1>
 
 <h3 align="center">
@@ -19,6 +25,8 @@ Hlw <span style="color:#00E5FF;">aayu here !</span>
 
 </p>
 
+---
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aayucodes&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
@@ -27,9 +35,13 @@ Hlw <span style="color:#00E5FF;">aayu here !</span>
 
 <img src="https://img.shields.io/github/stars/aayucodes?style=for-the-badge&logo=github&color=blue"/>
 
+<!-- <img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/> -->
+
 <img src="https://img.shields.io/badge/Focus-Web%20Development-blueviolet?style=for-the-badge"/>
 
 </div>
+
+---
 
 ## 💫 About Me
 
@@ -49,6 +61,7 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
+---
 
 <div align="center">
 
@@ -56,6 +69,7 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
+---
 
 <div align="center">
 
