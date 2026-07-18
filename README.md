@@ -1,7 +1,4 @@
-<!-- ========================================= -->
-<!--            PREMIUM GITHUB README          -->
-<!--              PART 1 - HERO               -->
-<!-- ========================================= -->
+
 
 <div align="center">
 
@@ -119,11 +116,11 @@ Goal      : Become a Full Stack Developer
 
 </p>
 
----
 
-# 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+
+<!-- <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/> -->
 
 
 
@@ -145,13 +142,13 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
 
 
 
 
 
----
+
+
 
 <div align="center">
 
@@ -193,7 +190,7 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
+
 
 # 💻 Languages
 
@@ -255,22 +252,9 @@ GitHub      █████████░ 90%
 
 </div>
 
-<!-- ========================================= -->
-<!--        PREMIUM README - PART 4            -->
-<!--    GITHUB STATS • TROPHIES • GRAPH        -->
-<!-- ========================================= -->
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayucodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayucodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -345,10 +329,7 @@ GitHub      █████████░ 90%
 
 </div>
 
-<!-- ========================================= -->
-<!--        PREMIUM README - PART 5            -->
-<!-- PROJECTS • LEETCODE • PORTFOLIO • CONTACT -->
-<!-- ========================================= -->
+
 
 # 🌟 Featured Projects
 
@@ -420,39 +401,8 @@ GitHub      █████████░ 90%
 
 </div>
 
----
 
-# 💻 Currently Working On
 
-```text
-🚀 Building Frontend Projects
-
-🌐 Responsive Websites
-
-🅰️ AngularJS Applications
-
-📚 DSA Practice on LeetCode
-
-🔥 Improving JavaScript Skills
-```
-
----
-
-# 🎯 2026 Goals
-
-✔️ Build 20+ Quality Projects
-
-✔️ Master AngularJS
-
-✔️ Learn React
-
-✔️ Become Full Stack Developer
-
-✔️ Contribute to Open Source
-
-✔️ Grow GitHub Profile
-
----
 
 # ☕ Support My Work
 
@@ -476,7 +426,7 @@ GitHub      █████████░ 90%
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile ⭐
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:6A5ACD"/>
 
