@@ -320,25 +320,8 @@ GitHub      █████████░ 90%
 
 
 
-# 🌟 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/aayucodes/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/aayucodes/GitHub-Explorer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=GitHub-Explorer&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/aayucodes/AngularJS-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=AngularJS-Projects&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 # 💻 Coding Profiles
 
@@ -393,7 +376,7 @@ GitHub      █████████░ 90%
 
 
 
-# ☕ Support My Work
+
 
 <div align="center">
 
