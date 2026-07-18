@@ -23,19 +23,18 @@
         <li>🎯 Continuous learner working towards becoming a <b>Full Stack Engineer</b></li>
       </ul>
     </td>
-    <!-- TECH STACK -->
+    <!-- TECH STACK WITH IMAGE ICONS -->
     <td width="50%" valign="top" align="center">
       <h3>🚀 Core Tech Stack</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev" alt="My Skills" />
-      </a>
+      <br />
+      <img src="https://skillicons.dev" alt="My Skills" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- GITHUB STATS DASHBOARD -->
+<!-- GITHUB STATS DASHBOARD WITH GRAPHICS -->
 <h3 align="center">📊 Core Engineering Metrics</h3>
 <p align="center">
   <img height="180" src="https://vercel.app" alt="GitHub Core Performance" />
@@ -47,7 +46,7 @@
 
 ---
 
-<!-- NETWORKING AND CONNECTIONS -->
+<!-- NETWORKING AND CONNECTIONS WITH SHIELD ICONS -->
 <h3 align="center">🌐 Professional Networks & Collaboration</h3>
 <p align="center">
   <a href="https://github.com" target="_blank">
@@ -58,6 +57,9 @@
   </a>
   <a href="https://leetcode.com" target="_blank">
     <img src="https://shields.io" alt="Problem Solving Profile" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    
   </a>
   <a href="mailto:aayu.x8@gmail.com">
     <img src="https://shields.io" alt="Direct Communication Pipeline" />
