@@ -12,7 +12,7 @@
 ---
 
 <h1 align="center">
-Hlw  <span style="color:#00E5FF;">aayu here !</span>
+Hi 👋, I'm <span style="color:#00E5FF;">Satyam</span>
 </h1>
 
 <h3 align="center">
@@ -35,7 +35,7 @@ Hlw  <span style="color:#00E5FF;">aayu here !</span>
 
 <img src="https://img.shields.io/github/stars/aayucodes?style=for-the-badge&logo=github&color=blue"/>
 
-<!-- <img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/> -->
+<img src="https://img.shields.io/badge/Open%20Source-Lover-00C853?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Focus-Web%20Development-blueviolet?style=for-the-badge"/>
 
@@ -53,7 +53,13 @@ Role      : Frontend Developer
 Learning  : AngularJS
 Passion   : Web Development
 Goal      : Become a Full Stack Developer
+```
 
+---
+
+
+
+---
 
 <div align="center">
 
@@ -79,6 +85,10 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
+<!-- ========================================= -->
+<!--          PREMIUM README - PART 2          -->
+<!--      SOCIALS • ABOUT • CONNECT           -->
+<!-- ========================================= -->
 
 # 🌐 Connect With Me
 
@@ -106,8 +116,20 @@ Goal      : Become a Full Stack Developer
 
 </p>
 
+---
+
+# 👨‍💻 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+
+
+
+---
+
+
+
+---
 
 
 
@@ -121,11 +143,26 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
+---
+
+
+
+
+
+---
+
 <div align="center">
+
+## 🚀 Thanks for Visiting My Profile
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:6A5ACD"/>
 
 </div>
+
+<!-- ========================================= -->
+<!--       PREMIUM README - PART 3             -->
+<!--   TECH STACK • TOOLS • SKILLS • SETUP     -->
+<!-- ========================================= -->
 
 # 🛠️ Tech Stack
 
@@ -190,6 +227,19 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
+---
+
+# 🚀 Currently Learning
+
+```text
+🅰️ AngularJS
+⚡ Advanced JavaScript
+🧠 Data Structures & Algorithms
+🌍 Responsive Web Design
+📦 Git & GitHub Best Practices
+```
+
+---
 
 # 🎯 Skills Progress
 
@@ -209,7 +259,43 @@ GitHub      █████████░ 90%
 
 ---
 
+# 📚 What I Love
 
+💙 Creating Responsive Websites
+
+🚀 Learning Modern Web Technologies
+
+💻 Solving Programming Problems
+
+📖 Exploring New Concepts
+
+🌍 Contributing to Open Source
+
+☕ Coffee + Music + Coding
+
+---
+
+# 💎 Developer Mindset
+
+```javascript
+while(alive){
+
+    Learn();
+
+    Code();
+
+    Build();
+
+    Debug();
+
+    PushToGitHub();
+
+    Repeat();
+
+}
+```
+
+---
 
 <div align="center">
 
@@ -219,7 +305,10 @@ GitHub      █████████░ 90%
 
 </div>
 
-
+<!-- ========================================= -->
+<!--        PREMIUM README - PART 4            -->
+<!--    GITHUB STATS • TROPHIES • GRAPH        -->
+<!-- ========================================= -->
 
 # 📊 GitHub Analytics
 
@@ -306,6 +395,31 @@ GitHub      █████████░ 90%
 
 </div>
 
+<!-- ========================================= -->
+<!--        PREMIUM README - PART 5            -->
+<!-- PROJECTS • LEETCODE • PORTFOLIO • CONTACT -->
+<!-- ========================================= -->
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aayucodes/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/aayucodes/GitHub-Explorer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=GitHub-Explorer&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/aayucodes/AngularJS-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aayucodes&repo=AngularJS-Projects&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
 # 💻 Coding Profiles
 
 <div align="center">
@@ -358,7 +472,35 @@ GitHub      █████████░ 90%
 
 ---
 
+# 💻 Currently Working On
 
+```text
+🚀 Building Frontend Projects
+
+🌐 Responsive Websites
+
+🅰️ AngularJS Applications
+
+📚 DSA Practice on LeetCode
+
+🔥 Improving JavaScript Skills
+```
+
+---
+
+# 🎯 2026 Goals
+
+✔️ Build 20+ Quality Projects
+
+✔️ Master AngularJS
+
+✔️ Learn React
+
+✔️ Become Full Stack Developer
+
+✔️ Contribute to Open Source
+
+✔️ Grow GitHub Profile
 
 ---
 
@@ -390,7 +532,10 @@ GitHub      █████████░ 90%
 
 </div>
 
-
+<!-- ========================================= -->
+<!--        PREMIUM README - PART 6            -->
+<!--     SNAKE • FOOTER • FINAL TOUCH          -->
+<!-- ========================================= -->
 
 # 🐍 Contribution Snake
 
