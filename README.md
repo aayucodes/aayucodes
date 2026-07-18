@@ -1,12 +1,9 @@
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=SATYAM&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20AngularJS%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58"/>
 
 </div>
-
----
 
 <h1 align="center">
 Hi 👋,  <span style="color:#00E5FF;">aayu here !</span>
@@ -22,8 +19,6 @@ Hi 👋,  <span style="color:#00E5FF;">aayu here !</span>
 
 </p>
 
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aayucodes&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
@@ -38,8 +33,6 @@ Hi 👋,  <span style="color:#00E5FF;">aayu here !</span>
 
 </div>
 
----
-
 ## 💫 About Me
 
 ```yaml
@@ -50,11 +43,7 @@ Role      : Frontend Developer
 Learning  : AngularJS
 Passion   : Web Development
 Goal      : Become a Full Stack Developer
-```
 
----
-
----
 
 <div align="center">
 
@@ -62,7 +51,6 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
 
 <div align="center">
 
@@ -70,7 +58,6 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
 
 <div align="center">
 
@@ -107,9 +94,6 @@ Goal      : Become a Full Stack Developer
 
 </p>
 
----
-
-# 👨‍💻 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
@@ -125,20 +109,11 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
-
-
-
-
 <div align="center">
-
-## 🚀 Thanks for Visiting My Profile
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:6A5ACD"/>
 
 </div>
-
-
 
 # 🛠️ Tech Stack
 
@@ -203,10 +178,6 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
-
-
----
 
 # 🎯 Skills Progress
 
@@ -322,11 +293,6 @@ GitHub      █████████░ 90%
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:6A5ACD"/>
 
 </div>
-
-
-
-
----
 
 # 💻 Coding Profiles
 
