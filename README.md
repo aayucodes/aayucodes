@@ -1,7 +1,4 @@
-<!-- ========================================= -->
-<!--            PREMIUM GITHUB README          -->
-<!--              PART 1 - HERO               -->
-<!-- ========================================= -->
+
 
 <div align="center">
 
@@ -12,7 +9,7 @@
 ---
 
 <h1 align="center">
-Hi 👋, I'm <span style="color:#00E5FF;">Satyam</span>
+Hi 👋,  <span style="color:#00E5FF;">aayu here !</span>
 </h1>
 
 <h3 align="center">
@@ -57,20 +54,6 @@ Goal      : Become a Full Stack Developer
 
 ---
 
-## 🚀 Current Journey
-
-🌱 Learning **AngularJS**
-
-💻 Building Modern Responsive Websites
-
-🚀 Improving JavaScript Skills
-
-📚 Solving Problems on LeetCode
-
-🎯 Working on Real World Projects
-
-⚡ Exploring Open Source
-
 ---
 
 <div align="center">
@@ -97,10 +80,6 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
-<!-- ========================================= -->
-<!--          PREMIUM README - PART 2          -->
-<!--      SOCIALS • ABOUT • CONNECT           -->
-<!-- ========================================= -->
 
 # 🌐 Connect With Me
 
