@@ -223,33 +223,52 @@ Goal      : Become a Full Stack Developer
 
 </div>
 
----
-
-
-
 # 🎯 Skills Progress
 
-```text
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<pre>
 HTML        ██████████ 100%
 
 CSS         █████████░ 90%
 
 JavaScript  ████████░░ 80%
+</pre>
 
+</td>
+
+<td width="120"></td>
+
+<td>
+
+<pre>
 AngularJS   ███████░░░ 70%
 
 Git         ████████░░ 80%
 
 GitHub      █████████░ 90%
-```
+</pre>
 
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 <div align="center">
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:0066FF"/>
 
 </div>
+
+
+
 
 
 
