@@ -45,7 +45,7 @@ Hi 👋, I'm <span style="color:#00E5FF;">Satyam</span>
 ```yaml
 Name      : Satyam
 Username  : aayucodes
-Location  : India 🇮🇳
+Location  : India
 Role      : Frontend Developer
 Learning  : AngularJS
 Passion   : Web Development
