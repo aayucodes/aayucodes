@@ -116,20 +116,7 @@ Goal      : Become a Full Stack Developer
 
 </p>
 
-
-
-
-
 <!-- <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/> -->
-
-
-
-
-
-
-
-
-
 
 
 # 💬 Developer Quote
